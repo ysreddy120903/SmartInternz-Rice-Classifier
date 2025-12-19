@@ -50,3 +50,29 @@ Group (customizable)
 
 📝 Notes
 This project showcases the power of transfer learning in agriculture. In just 3 epochs, a highly accurate model was achieved — making it practical for real-world deployment.# Grainpalette-A-Deep-Learning-Odyssey-in-Rice-Type-Classification-Through-Transfer
+
+
+# SmartInternz Rice Classifier
+
+## Project Overview
+This project classifies different types of rice grains using a deep learning model based on Convolutional Neural Networks (CNN).
+
+## Technologies Used
+- Python
+- TensorFlow / Keras
+- HTML, CSS
+- Flask
+
+## Model
+A trained CNN model saved as `rice_model.keras` is used for classification.
+
+## Features
+- Upload rice grain image
+- Predict rice type
+- Display result on web interface
+
+## Future Enhancements
+- Improve accuracy
+- Deploy on cloud
+- Add more rice varieties
+-
